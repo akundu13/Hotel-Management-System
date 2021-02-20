@@ -23,5 +23,4 @@ public class DatabaseConnection
 		state=con.createStatement();
 	}
 	
-	
 }
