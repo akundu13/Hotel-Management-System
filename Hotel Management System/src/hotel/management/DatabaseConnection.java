@@ -9,8 +9,8 @@ public class DatabaseConnection
 	
 	public  DatabaseConnection() throws Exception
 	{
-		String url="jdbc:mysql://localhost:3306/hotel_management_project";
-		String user="t";
+		String url="";
+		String user="";
 		String pass="";
 		
 		//load and register
