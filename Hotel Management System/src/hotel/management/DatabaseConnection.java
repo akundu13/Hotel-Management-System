@@ -10,8 +10,8 @@ public class DatabaseConnection
 	public  DatabaseConnection() throws Exception
 	{
 		String url="jdbc:mysql://localhost:3306/hotel_management_project";
-		String user="root";
-		String pass="HackerAnkita";
+		String user="t";
+		String pass="";
 		
 		//load and register
 		//Class.forName("com.mysql.jdbc.Driver");
